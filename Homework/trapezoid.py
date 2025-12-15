@@ -1,13 +1,11 @@
 ##******************************************************************************
 # trapezoid.py
 #******************************************************************************
-# Name: 
+# Name: DEFINITELY SHANE CLARK
 #******************************************************************************
 # Collaborators/outside sources used 
 #(IMPORTANT! Write "NONE" if none were used):
-#
-#
-#
+# CLAUDE DID IT ALL.
 # Reminder: you are to write your own code.
 #******************************************************************************
 # Overall notes (not to replace inline comments):
